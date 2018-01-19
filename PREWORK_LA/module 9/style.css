@@ -1,0 +1,23 @@
+body > p:nth-child(4){
+	color:red;
+}
+#blue {
+	color:blue;
+}
+.green{
+	color:green;
+ }
+ #font{
+ 	font-family:Georgia;
+ }
+ #multiple{
+ 	color:orange;
+ }
+.styledFont{
+	color:red;
+}
+#styledImage{
+border-width: 20px	
+border-color: green;
+border-style: dotted
+}
